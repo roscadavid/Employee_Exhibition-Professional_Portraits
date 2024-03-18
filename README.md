@@ -4,6 +4,7 @@ Employee Exhibition - Professional Portraits
 The purpose of this project is to develop an interactive web page that presents each member of a company in a captivating and personalized way. The resulting page will offer a detailed look at the talent and expertise of each employee, reflecting the identity and values of the company.
 
 Specifications:
+
 HTML Setup:
 An HTML document will be created, structured to highlight the individuality of each company member.
 The title of the page will be "Professional Portraits", emphasizing the professional nature of the presentation.
